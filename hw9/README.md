@@ -4,7 +4,7 @@ Run on Kaggle P100 GPU
 
 ## Main file
 ```main
-r13944043_hw9_1.ipynb
+hw9_1.ipynb
 ```
 
 ## PEFT Package Modification
