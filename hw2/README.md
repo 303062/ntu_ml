@@ -1,1 +1,1 @@
-Run on Kaggle P100
+Run on Kaggle P100 GPU
